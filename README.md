@@ -1,7 +1,7 @@
 # Bharat-Intern-Data-Science
 
 ## Three Tasks:-
-## 1. Stock Prediction :
+## 1. Stock Prediction :(Stock Prediction .ipynb)
 ### Take stock price of any company you want and predicts its price by using LSTM. Use only Jupyter notebook code.
 
 ## 2. Titanic Classification :
